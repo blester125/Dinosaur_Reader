@@ -82,7 +82,7 @@ public class Comic {
 		frame = new JFrame();
 		frame.setTitle("Dinosaur Comics =)");
 		frame.setResizable(false);
-		frame.setBounds(100, 100, 737, 628);
+		frame.setBounds(100, 100, 737, 633);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
@@ -104,7 +104,7 @@ public class Comic {
 		titlePanel.add(titleText);
 
 		JPanel buttonPanel = new JPanel();
-		buttonPanel.setBounds(0, 570, 735, 30);
+		buttonPanel.setBounds(0, 575, 735, 30);
 		frame.getContentPane().add(buttonPanel);
 		
 		btnFirst = new JButton("First");

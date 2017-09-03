@@ -16,5 +16,5 @@ and can be run with
 
 	java -cp .:jsoup-1.9.1.jar Comic
 
-www.qwantz.com and Dinosaur Comics is great and I encourage uses to go there.
+www.qwantz.com and Dinosaur Comics is great and I encourage users to go there.
 
